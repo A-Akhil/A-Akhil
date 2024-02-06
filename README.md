@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Akhil</h1>
 <h3 align="center">A passionate Machine Learning developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilandroid&label=Profile%20views&color=0e75b6&style=flat" alt="akhilandroid" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=A-Akhil&label=Profile%20views&color=0e75b6&style=flat" alt="A-Akhil" /> </p>
 
 - 🌱 I’m currently **on a hunt to find good opensource projects to learn and contribute back.**
 
-- 🤝 I’m looking for help with [Crime-Detection-using-Machine-Learning](https://github.com/AkhilAndroid/Crime-Detection-using-Machine-Learning)
+- 🤝 I’m looking for help with [Crime-Detection-using-Machine-Learning](https://github.com/A-Akhil/Crime-Detection-using-Machine-Learning)
 
 - 💬 Ask me about **Computer Vision**
 
@@ -24,9 +24,9 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AkhilAndroid">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AkhilAndroid&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AkhilAndroid&layout=compact&langs_count=8&theme=algolia"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AkhilAndroid&theme=tokyonight"/>
+<a href="https://github.com/A-Akhil">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=A-Akhil&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=A-Akhil&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=A-Akhil&theme=tokyonight"/>
 </a>
 </p>
