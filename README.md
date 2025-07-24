@@ -13,7 +13,7 @@
 - 🌱 Currently on a journey to discover and contribute to exciting open-source projects
 - 👨‍💻 Always eager to learn and grow in the tech world
 - 📫 Reach me at: **akhilarul324@gmail.com**
-
+- 🌐 Check out my portfolio: [devakhil.com](https://devakhil.com)
 ## 🤝 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/a-akhil-16b396201/" target="_blank">
