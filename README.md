@@ -71,7 +71,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=A-Akhil&layout=compact&langs_count=8&theme=dark" alt="Most Used Languages" />
 </p>
 <p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=A-Akhil&mode=weekly&hide_longest_streak=true" alt="GitHub Streak" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=A-Akhil&theme=dark&mode=weekly&hide_longest_streak=true" alt="GitHub Streak" />
 </p>
 
 ## 🏆 GitHub Trophies
